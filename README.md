@@ -2,7 +2,7 @@
 ### Company: CODETECH IT SOLUTIONS
 ### ID: CT08DS216
 ### DOMAIN: DATA SCIENCE
-### DURATION: December 10th, 2024 - February 10th, 2025
+### DURATION: December 10th, 2024 - January 10th, 2025
 
 ---
 
